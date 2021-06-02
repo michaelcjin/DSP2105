@@ -1,5 +1,5 @@
-## Part 2
+## Part 3
 
 - Course Flow
-- Homework #2 Assignment
-- Homework #2 Sample Solutions
+- Homework #3 Assignment
+- Homework #3 Sample Solutions

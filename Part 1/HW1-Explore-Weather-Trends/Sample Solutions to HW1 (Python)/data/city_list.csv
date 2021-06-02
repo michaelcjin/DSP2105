@@ -1,0 +1,346 @@
+id,city,country
+1,Abidjan,"Côte D'Ivoire"
+2,"Abu Dhabi","United Arab Emirates"
+3,Abuja,Nigeria
+4,Accra,Ghana
+5,Adana,Turkey
+6,Adelaide,Australia
+7,Agra,India
+8,Ahmadabad,India
+9,Albuquerque,"United States"
+10,Alexandria,Egypt
+11,Alexandria,"United States"
+12,Algiers,Algeria
+13,Allahabad,India
+14,Almaty,Kazakhstan
+15,Amritsar,India
+16,Amsterdam,Netherlands
+17,Ankara,Turkey
+18,Anshan,China
+19,Antananarivo,Madagascar
+20,Arlington,"United States"
+21,Asmara,Eritrea
+22,Astana,Kazakhstan
+23,Athens,Greece
+24,Atlanta,"United States"
+25,Austin,"United States"
+26,Baghdad,Iraq
+27,Baku,Azerbaijan
+28,Baltimore,"United States"
+29,Bamako,Mali
+30,Bandung,Indonesia
+31,Bangalore,India
+32,Bangkok,Thailand
+33,Bangui,"Central African Republic"
+34,Barcelona,Spain
+35,Barcelona,Venezuela
+36,Barquisimeto,Venezuela
+37,Barranquilla,Colombia
+38,Beirut,Lebanon
+39,Belfast,"United Kingdom"
+40,Belgrade,Serbia
+41,"Belo Horizonte",Brazil
+42,Benghazi,Libya
+43,Berlin,Germany
+44,Bern,Switzerland
+45,Bhopal,India
+46,Birmingham,"United Kingdom"
+47,Birmingham,"United States"
+48,Bissau,"Guinea Bissau"
+49,Boston,"United States"
+50,Bratislava,Slovakia
+51,Brazzaville,Congo
+52,Brisbane,Australia
+53,Brussels,Belgium
+54,Bucharest,Romania
+55,Budapest,Hungary
+56,Bujumbura,Burundi
+57,Bursa,Turkey
+58,Cairo,Egypt
+59,Cali,Colombia
+60,Campinas,Brazil
+61,Canberra,Australia
+62,Caracas,Venezuela
+63,Cardiff,"United Kingdom"
+64,Casablanca,Morocco
+65,Changchun,China
+66,Changzhou,China
+67,Charlotte,"United States"
+68,Chelyabinsk,Russia
+69,Chengdu,China
+70,Chicago,"United States"
+71,Chisinau,Moldova
+72,Colombo,Brazil
+73,Colombo,"Sri Lanka"
+74,"Colorado Springs","United States"
+75,Columbus,"United States"
+76,Conakry,Guinea
+77,Copenhagen,Denmark
+78,Cordoba,Argentina
+79,Curitiba,Brazil
+80,Dakar,Senegal
+81,Dalian,China
+82,Dallas,"United States"
+83,Damascus,Syria
+84,"Dar Es Salaam",Tanzania
+85,Datong,China
+86,Delhi,India
+87,Denver,"United States"
+88,Detroit,"United States"
+89,Dhaka,Bangladesh
+90,Doha,Qatar
+91,Douala,Cameroon
+92,Dublin,Ireland
+93,Durban,"South Africa"
+94,Dushanbe,Tajikistan
+95,Ecatepec,Mexico
+96,Edinburgh,"United Kingdom"
+97,"El Paso","United States"
+98,Faisalabad,Pakistan
+99,"Fort Worth","United States"
+100,Fortaleza,Brazil
+101,Foshan,China
+102,Freetown,"Sierra Leone"
+103,Fresno,"United States"
+104,Fuzhou,China
+105,Gaborone,Botswana
+106,Georgetown,Guyana
+107,Guadalajara,Mexico
+108,Guangzhou,China
+109,Guarulhos,Brazil
+110,"Guatemala City",Guatemala
+111,Guayaquil,Ecuador
+112,Guiyang,China
+113,Gujranwala,Pakistan
+114,Hamburg,Germany
+115,Handan,China
+116,Hangzhou,China
+117,Hanoi,Vietnam
+118,Haora,India
+119,Harare,Zimbabwe
+120,Harbin,China
+121,Hefei,China
+122,Helsinki,Finland
+123,Hiroshima,Japan
+124,"Ho Chi Minh City",Vietnam
+125,Houston,"United States"
+126,Hyderabad,India
+127,Hyderabad,Pakistan
+128,Ibadan,Nigeria
+129,Indianapolis,"United States"
+130,Indore,India
+131,Irbil,Iraq
+132,Islamabad,Pakistan
+133,Istanbul,Turkey
+134,Izmir,Turkey
+135,Jacksonville,"United States"
+136,Jaipur,India
+137,Jakarta,Indonesia
+138,Jilin,China
+139,Jinan,China
+140,Johannesburg,"South Africa"
+141,Juba,Sudan
+142,Kabul,Afghanistan
+143,Kaduna,Nigeria
+144,Kampala,Uganda
+145,Kano,Nigeria
+146,Kanpur,India
+147,"Kansas City","United States"
+148,Kaohsiung,Taiwan
+149,Karachi,Pakistan
+150,Kathmandu,Nepal
+151,Kawasaki,Japan
+152,Kazan,Russia
+153,Khartoum,Sudan
+154,Khulna,Bangladesh
+155,Kiev,Ukraine
+156,Kigali,Rwanda
+157,Kingston,Canada
+158,Kingston,Jamaica
+159,Kinshasa,"Congo (Democratic Republic Of The)"
+160,Kitakyushu,Japan
+161,Kobe,Japan
+162,"Kuala Lumpur",Malaysia
+163,Kunming,China
+164,"La Paz",Bolivia
+165,"La Paz",Mexico
+166,Lagos,Nigeria
+167,Lahore,Pakistan
+168,Lanzhou,China
+169,"Las Vegas","United States"
+170,Libreville,Gabon
+171,Lilongwe,Malawi
+172,Lima,Peru
+173,Lisbon,Portugal
+174,Ljubljana,Slovenia
+175,London,Canada
+176,London,"United Kingdom"
+177,"Long Beach","United States"
+178,"Los Angeles",Chile
+179,"Los Angeles","United States"
+180,Louisville,"United States"
+181,Luanda,Angola
+182,Lubumbashi,"Congo (Democratic Republic Of The)"
+183,Ludhiana,India
+184,Luoyang,China
+185,Lusaka,Zambia
+186,Madrid,Spain
+187,Maiduguri,Nigeria
+188,Malabo,"Equatorial Guinea"
+189,Managua,Nicaragua
+190,Manama,Bahrain
+191,Manaus,Brazil
+192,Manila,Philippines
+193,Maputo,Mozambique
+194,Maracaibo,Venezuela
+195,Maseru,Lesotho
+196,Mashhad,Iran
+197,Mecca,"Saudi Arabia"
+198,Medan,Indonesia
+199,Melbourne,Australia
+200,Memphis,"United States"
+201,Mesa,"United States"
+202,Mexicali,Mexico
+203,Miami,"United States"
+204,Milan,Italy
+205,Milwaukee,"United States"
+206,Minneapolis,"United States"
+207,Minsk,Belarus
+208,Mogadishu,Somalia
+209,Monrovia,Liberia
+210,Monterrey,Mexico
+211,Montevideo,Uruguay
+212,Montreal,Canada
+213,Moscow,Russia
+214,Multan,Pakistan
+215,Munich,Germany
+216,Nagoya,Japan
+217,Nagpur,India
+218,Nairobi,Kenya
+219,Nanchang,China
+220,Nanjing,China
+221,Nanning,China
+222,Nashville,"United States"
+223,Nassau,Bahamas
+224,"New Delhi",India
+225,"New Orleans","United States"
+226,"New York","United States"
+227,Niamey,Niger
+228,Nouakchott,Mauritania
+229,Novosibirsk,Russia
+230,Oakland,"United States"
+231,"Oklahoma City","United States"
+232,Omaha,"United States"
+233,Omsk,Russia
+234,Oslo,Norway
+235,Ottawa,Canada
+236,Ouagadougou,"Burkina Faso"
+237,Palembang,Indonesia
+238,Paramaribo,Suriname
+239,Paris,France
+240,Patna,India
+241,Perm,Russia
+242,Perth,Australia
+243,Peshawar,Pakistan
+244,Philadelphia,"United States"
+245,Phoenix,"United States"
+246,Podgorica,Montenegro
+247,"Port Au Prince",Haiti
+248,"Port Harcourt",Nigeria
+249,"Port Louis",Mauritius
+250,"Port Moresby","Papua New Guinea"
+251,Portland,"United States"
+252,"Porto Alegre",Brazil
+253,Prague,"Czech Republic"
+254,Pretoria,"South Africa"
+255,Pristina,Serbia
+256,Puebla,Mexico
+257,Pune,India
+258,Qingdao,China
+259,Qiqihar,China
+260,Quito,Ecuador
+261,Rabat,Morocco
+262,Rajkot,India
+263,Raleigh,"United States"
+264,Ranchi,India
+265,Rawalpindi,Pakistan
+266,Recife,Brazil
+267,Riga,Latvia
+268,"Rio De Janeiro",Brazil
+269,Riyadh,"Saudi Arabia"
+270,Rome,Italy
+271,Rosario,Argentina
+272,Sacramento,"United States"
+273,Salvador,Brazil
+274,Samara,Russia
+275,"San Antonio","United States"
+276,"San Diego","United States"
+277,"San Francisco","United States"
+278,"San Jose","United States"
+279,"San Salvador","El Salvador"
+280,"Santa Cruz",Philippines
+281,Santiago,Chile
+282,Santiago,"Dominican Republic"
+283,Santiago,Philippines
+284,"Santo Domingo","Dominican Republic"
+285,"Santo Domingo",Ecuador
+286,Sarajevo,"Bosnia And Herzegovina"
+287,Seattle,"United States"
+288,Semarang,Indonesia
+289,Seoul,"South Korea"
+290,Shanghai,China
+291,Shenyang,China
+292,Shenzhen,"Hong Kong"
+293,Shiraz,Iran
+294,Singapore,Singapore
+295,Skopje,Macedonia
+296,Sofia,Bulgaria
+297,Soweto,"South Africa"
+298,Stockholm,Sweden
+299,Surabaya,Indonesia
+300,Surat,India
+301,Suzhou,China
+302,Sydney,Australia
+303,Tabriz,Iran
+304,Taichung,Taiwan
+305,Taipei,Taiwan
+306,Taiyuan,China
+307,Tallinn,Estonia
+308,Tangshan,China
+309,Tashkent,Uzbekistan
+310,Tbilisi,Georgia
+311,Tegucigalpa,Honduras
+312,Tianjin,China
+313,Tijuana,Mexico
+314,Tirana,Albania
+315,Tokyo,Japan
+316,Toronto,Canada
+317,Tripoli,Libya
+318,Tucson,"United States"
+319,Tulsa,"United States"
+320,Tunis,Tunisia
+321,Ufa,Russia
+322,Ulaanbaatar,Mongolia
+323,Vadodara,India
+324,Valencia,Spain
+325,Valencia,Venezuela
+326,Varanasi,India
+327,Victoria,Canada
+328,Vienna,Austria
+329,Vientiane,Laos
+330,Vilnius,Lithuania
+331,"Virginia Beach","United States"
+332,Volgograd,Russia
+333,Warsaw,Poland
+334,Washington,"United States"
+335,Wellington,"New Zealand"
+336,Wichita,"United States"
+337,Windhoek,Namibia
+338,Wuhan,China
+339,Wuxi,China
+340,Xian,China
+341,Xuzhou,China
+342,Yamoussoukro,"Côte D'Ivoire"
+343,Yerevan,Armenia
+344,Zagreb,Croatia
+345,Zapopan,Mexico

@@ -1,4 +1,4 @@
-# DSP2105
+# Data Science with Python (Course ID: DSP2105)
 
 This is the tent of the programs, datasets, and homework assignments for <b>Data Science with Python</b> class.
 
